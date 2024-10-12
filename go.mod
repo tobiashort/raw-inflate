@@ -1,3 +1,3 @@
-module github.com/t-hg/raw-inflate
+module github.com/tobiashort/raw-inflate
 
 go 1.22.5
